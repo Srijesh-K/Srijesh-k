@@ -1,6 +1,5 @@
 <div align="center">
 
-# Srijesh K
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=50&duration=1&pause=1000000&color=14B8A6&center=true&vCenter=true&width=700&height=80&lines=Srijesh+K" />
