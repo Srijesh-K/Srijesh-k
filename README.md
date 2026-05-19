@@ -38,9 +38,9 @@
 
 ### 📊 GitHub Stats  
 
-![Srijesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srijeshnair&show_icons=true&theme=radical)
+![Srijesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srijesh-k&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijeshnair&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijesh-k&layout=compact&theme=radical)
 <!--
 **Srijeshnair/Srijeshnair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
