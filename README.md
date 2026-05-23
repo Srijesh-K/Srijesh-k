@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=arshad-muhammad.arshad-muhammad&style=flat-square&color=1D9E75" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Srijesh-k.Srijesh-k&style=flat-square&color=1D9E75" />
 </div>
 
 ---
@@ -9,7 +9,7 @@
 ```
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=38&pause=1000&color=1D9E75&center=true&vCenter=true&width=720&height=100&lines=Muhammad+Arshad.;Builder.+Learner.+Creator." alt="Muhammad Arshad" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=38&pause=1000&color=1D9E75&center=true&vCenter=true&width=720&height=100&lines=Srijesh+K.;Builder.+Learner.+Creator." alt="Srijesh K" />
 </h1>
 
 ### Building things for the web — one commit at a time.
