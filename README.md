@@ -1,10 +1,16 @@
-<div align="center">
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=50&duration=1&pause=1000000&color=14B8A6&center=true&vCenter=true&width=700&height=80&lines=Srijesh+K" />
-
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arshad-muhammad.arshad-muhammad&style=flat-square&color=1D9E75" />
 </div>
+
+---
+
+```
+// Creative Technologist
+```
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=38&pause=1000&color=1D9E75&center=true&vCenter=true&width=720&height=100&lines=Muhammad+Arshad.;Builder.+Learner.+Creator." alt="Muhammad Arshad" />
+</h1>
 
 ### Building things for the web — one commit at a time.
 
