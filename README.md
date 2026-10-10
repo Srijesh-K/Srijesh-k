@@ -120,19 +120,8 @@
 
 ---
 
-# Activity Graph
 
-<p align="center">
 
-<img
-  src="https://ghchart.rshah.org/1D9E75/Srijesh-K"
-  alt="Srijesh K's GitHub Contribution Graph"
-  width="95%"
-/>
-
-</p>
-
----
 
 # Achievements
 
