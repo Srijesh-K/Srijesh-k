@@ -16,7 +16,7 @@
 </h1>
 
 <p align="center">
-  <strong>Building things for the web — one commit at a time.</strong>
+  <strong>Building things for the web - one commit at a time.</strong>
 </p>
 
 <p align="center">
